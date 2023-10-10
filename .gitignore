@@ -1,0 +1,8 @@
+### Volume mysql ###
+mysql/db-volume
+
+target/
+
+
+### VS Code ###
+.vscode/

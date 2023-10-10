@@ -3,6 +3,7 @@ mysql/db-volume
 
 target/
 
+k8s/
 
 ### VS Code ###
 .vscode/
